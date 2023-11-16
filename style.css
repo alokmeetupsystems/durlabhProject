@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #FFCD9E;
+    background-color: #f8c99c;
     height: 70vh;
 }
 
@@ -119,7 +119,7 @@ button{
 button:hover{
     color:#000000;
     background-color: #FFCD9E;
-    font-weight: 700;
+font-weight: 700;
 }
 li>span{
     cursor: pointer;
